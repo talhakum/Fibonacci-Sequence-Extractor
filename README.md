@@ -25,4 +25,4 @@ talha@ubuntu:~$ perl FibonacciSequenceExtractor.pl samplefile.txt
 
 * It ignores the sequences that have less than 3 numbers.
 
-See details of the project: https://drive.google.com/drive/folders/1rdSQGzIv2z-X43PeM_2ZxYV7vB8XAAZG
+See details of the project: https://drive.google.com/open?id=1VK0MS7c7oI4l8ZqsuC46cRmzroUfCKRr
